@@ -14,21 +14,21 @@
 
 * **核心 (Core):** Java SE (JDK 11+)
 * **网络 (Networking):** `java.net.Socket` 和 `java.net.ServerSocket` (TCP/IP 套接字编程)
-* **并发 (Concurrency):** `java.lang.Thread` 和 `java.lang.Runnable` (Ch 24: 多线程)
+* **并发 (Concurrency):** `java.lang.Thread` 和 `java.lang.Runnable` (多线程)
 * **数据库 (Database):** MySQL 8.0, JDBC
 * **图形界面 (GUI):** Java Swing
-* **输入输出 (IO):** `InputStream` / `OutputStream`, `BufferedReader` / `PrintWriter` (Ch 21-23: IO 体系)
+* **输入输出 (IO):** `InputStream` / `OutputStream`, `BufferedReader` / `PrintWriter` (IO 体系)
     
 * **高级:**
-    * `java.lang.reflect.Proxy` (Ch 26: 动态代理 - 用于日志记录)
-        (java.lang.reflect.Proxy (Ch 26: Dynamic Proxy - used for logging))
-    * `java.lang.annotation.Annotation` (Ch 26: 注解)
-        (java.lang.annotation.Annotation (Ch 26: Annotations))
-    * `java.lang.reflect` (Ch 25: 反射)
-        (java.lang.reflect (Ch 25: Reflection))
-    * `java.util.function` (Ch 27: Lambda 表达式)
-        (java.util.function (Ch 27: Lambda Expressions))
-* **测试:** JUnit (Ch 25)
+    * `java.lang.reflect.Proxy` (动态代理 - 用于日志记录)
+        (java.lang.reflect.Proxy (Dynamic Proxy - used for logging))
+    * `java.lang.annotation.Annotation` (注解)
+        (java.lang.annotation.Annotation (Annotations))
+    * `java.lang.reflect` (反射)
+        (java.lang.reflect (Reflection))
+    * `java.util.function` (Lambda 表达式)
+        (java.util.function (Lambda Expressions))
+* **测试:** JUnit 
 
 ## 🚀 如何运行
 
